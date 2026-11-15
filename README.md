@@ -1,4 +1,4 @@
-# Predictive Maintenance & Digital Twin Dashboard
+# Predictive Maintenance Dashboard
 
 A machine learning project that predicts how much life an engine has left, detects unusual behavior, and helps plan maintenance.
 
